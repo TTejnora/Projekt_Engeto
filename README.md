@@ -16,6 +16,7 @@ pip install -r requirements.txt
 Výsledky hlasování pro okres Cheb:
 
 1.argument 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=5&xnumnuts=4101'
+
 2.argument Cheb.csv
 
 Spuštění programu
